@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Sam and this is my ~~loose collection of unrelated thoughts on programming and science~~ blog.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm an mechanical engineer turned software developer interested in the intersection of software, science, and engineering.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have a masters in mechanical engineering from [The University of Texas at Austin](https://www.utexas.edu/) where I did some reaserch in soft tissue biomechanics.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Python is my tool of choice at the moment, but I'm dabbling in JavaScript (because the internet) and C++ (because speed) to better round out my skill set.
