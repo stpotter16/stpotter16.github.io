@@ -10,4 +10,10 @@ I'm a mechanical engineer turned software developer interested in the intersecti
 
 I have a masters in mechanical engineering from [The University of Texas at Austin](https://www.utexas.edu/) where I did some reaserch in soft tissue biomechanics.
 
-Python is my tool of choice at the moment, but I'm dabbling in JavaScript (because the internet) and C++ (because speed) to better round out my skill set.
+Currently, I'm working as a full-stack engineer at [Indeed](indeed.com). All opinions expressed here are my own.
+
+In my copious free time, I'm hacking away at a few projects.
+
+- A python library for Digital Image Correlation (DIC) written in Python.
+- A personal finace app built with NextJS.
+
