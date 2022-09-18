@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Dotfiles"
+date:   2022-09-17 23:07:00 -0400
+categories: tools
+---
+I finally did it.
+
+I've joined the ranks of the many developers out there using Git to manage my [dotfiles](https://github.com/stpotter16/dotfiles)
+
+I started on this path after watching The Primeagen's vimrc 2022 [tutorial](https://www.youtube.com/watch?v=x2QJYq4IX6M) and noticed that Prime had a [repo](https://github.com/ThePrimeagen/.dotfiles) for their dotfiles.
+
+Unlike some, I suspect my use cases for version control over my dotfiles are simplistic.
+
+I don't tend to sync my config across multiple machines or have different versions of the config based on the environment I'm in.
+
+Really, I just wanted to treat Git as a familiar "back-up" mechanism and a way to enable low cost experimenation on my config.
+
+As such, I didn't take too much time to explore the many [tools](https://dotfiles.github.io/utilities/) out there for solving those more complex use cases. I just used some `ln -s` magic.
+
+That said, it's nice to know there are options in the event the cheap and cheeful approach I've taken thus far doesn't scale.
+
+Sam
