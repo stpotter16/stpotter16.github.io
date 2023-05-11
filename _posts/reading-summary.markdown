@@ -10,3 +10,10 @@ your blood boil with the accounts of McKinsey assisting Big Tabacco, authoritari
 What surprised me most was the ease at which McKinsey "played both sides of the table", e.g. advised pharmaceutical companies and the FDA simultaneously.
 My one grip, though fair from the author's perspective/purpose for the book, was that there was no attempt to balance accounts of the harms McKinsey had contributed to
 with acounts of any benefit their work might have produced.
+- "Empire of Pain: The Secret History of the Sackler Dynasty" by Patrick Radden Keefe - 
+An absorbing, narratively structured report of the Sackler family. The book traces three generations of the Sackler family as they built multiple business
+in the pharmaceutical and pharmaceutical adjacent world, culminating in their involvement, via Purdue Pharma, in the release of OxyCotin and the subsequent
+opiod crisis. Keefe reports in such a well-paced, compelling style. The book is, no surpise, a sobering read. I sometimes ask myself, "Why read these dreary
+frustrating books"? I don't have a great answer. Maybe it's an attempt to witness to injustice (not a single executive of Perdue Pharma or any of the Sackler family admitted guilt or served jail time)?
+Maybe I read it in the hopes that I can "see" when goverment fails us (OxyCotin's FDA approver eventually worked for Perdue) and try to advocate for change.
+
