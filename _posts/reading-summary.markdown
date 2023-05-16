@@ -16,4 +16,5 @@ in the pharmaceutical and pharmaceutical adjacent world, culminating in their in
 opiod crisis. Keefe reports in such a well-paced, compelling style. The book is, no surpise, a sobering read. I sometimes ask myself, "Why read these dreary
 frustrating books"? I don't have a great answer. Maybe it's an attempt to witness to injustice (not a single executive of Perdue Pharma or any of the Sackler family admitted guilt or served jail time)?
 Maybe I read it in the hopes that I can "see" when goverment fails us (OxyCotin's FDA approver eventually worked for Perdue) and try to advocate for change.
-
+- "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions" by Randall Munroe -
+I've enjoyed xkcd for a long while and enjoyed the first edition of "What If?". Part 2 was no dissapointment.
