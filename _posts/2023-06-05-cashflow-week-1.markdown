@@ -5,8 +5,9 @@ date:   Mon 05 Jun 2023 08:38:19 AM CDT
 categories: projects, cashflow
 ---
 # Last week's progress
-1. Setup the project.
-Repo is up at https://github.com/stpotter16/cashflow
+# 1. Setup the project.
+    
+ Repo is up at https://github.com/stpotter16/cashflow
 
 I made it about halfway through the hypermodern python guide (up through a portion of the linting section).
 
@@ -19,10 +20,10 @@ Some things I skipped from the hypermodern python guide
 - Using a `src` folder
 - All the example `click` CLIs
 
-2. Pick a VPS
+# 2. Pick a VPS
 I'm going to go with [Linode](linode.com). It was a toss up between this and Digital Ocean.
 I landed on Linode for now. We'll see if that decision has legs
 
 # Goals for the week
 1. Finish the hypermodern python guide.
-2. Make a decision about supporting multiple python versions
+2. Make a decision about supporting multiple python versions.
