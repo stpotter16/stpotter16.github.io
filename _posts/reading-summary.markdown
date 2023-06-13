@@ -20,3 +20,4 @@ Maybe I read it in the hopes that I can "see" when goverment fails us (OxyCotin'
 I've enjoyed xkcd for a long while and enjoyed the first edition of "What If?". Part 2 was no dissapointment.
 - "How to: Absurd Scientific Advice for Common Real-World Problems" by Randall Munroe -
 A great counterpoint to the "What If?" series of books. Light and fun.
+- "Don't Make Me Think Revisited: A Common Sense Approah to Web and Mobile Usability" by Steve Krug - full review [here](https://stpotter16.github.io/books/2023/06/13/book-review-dont-make-me-think.html)
